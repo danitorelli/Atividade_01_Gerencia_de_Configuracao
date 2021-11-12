@@ -1,1 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Atividade GitHub</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <header>
+        <center>
+            <h1><font color="#FF1493">Essa é minha atividade do GitHub</font></h1>
+            <p><font color="#FF69B4">Gerência de Configuração e Controle de Versão</font></p>
+        </center>
+        <br/>
+        <nav>
+            <p><font color="#F08080">Dados da Aluna:</font></p>
+            <ul>
+                <li><font color="#DB7093">Daniella Carolina Camargo Torelli</font></li>
+                <li><font color="#DB7093">Engenharia de Software</font></li>
+                <li><font color="#DB7093">2º ano</font></li>
+            </ul>
+        </nav>
+    </header>
+  </body>
+</html>
+
 
